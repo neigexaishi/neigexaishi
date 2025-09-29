@@ -19,3 +19,8 @@
   [![Mail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neigee@internet.ru)
   
 </div>
+<div align="center">
+  
+*Made with 💖 by neige !*
+
+</div>
