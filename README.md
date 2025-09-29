@@ -3,9 +3,9 @@
 
 <div align="center">
   
-  ![GitHub followers](https://img.shields.io/github/followers/1leeway?style=for-the-badge&logo=github&color=ff6b35)
-  ![GitHub stars](https://img.shields.io/github/stars/1leeway?style=for-the-badge&logo=github&color=ff6b35)
-  ![Profile views](https://komarev.com/ghpvc/?username=1leeway&style=for-the-badge&color=ff6b35)
+  ![GitHub followers](https://img.shields.io/github/followers/neigexaishi?style=for-the-badge&logo=github&color=ff6b35)
+  ![GitHub stars](https://img.shields.io/github/stars/neigexaishi?style=for-the-badge&logo=github&color=ff6b35)
+  ![Profile views](https://komarev.com/ghpvc/?username=neigexaishi&style=for-the-badge&color=ff6b35)
   
 </div>
 
@@ -25,3 +25,5 @@
 *Made with 💖 by neige !*
 
 </div>
+
+# cé fo jai pa inspiré de leeway
