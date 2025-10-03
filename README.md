@@ -11,8 +11,7 @@
   
 </div>
 
-<div align="center">
-  <img src="https://i.goopics.net/723tyx.png" alt="avatar" width="150"
+[![Discord Presence](https://lanyard.cnrad.dev/api/267757747653705728)](https://discord.com/users/267757747653705728)
 
 <br>
 <div align="center">
