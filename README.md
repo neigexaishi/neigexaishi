@@ -23,9 +23,10 @@
   
 </div>
 <div align="center">
+</div>  
 ![](https://github-readme-stats.vercel.app/api?username=neigexaishi&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=1sown&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 *Made with 💖 by neige !*
 
-</div>
 
