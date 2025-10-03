@@ -11,7 +11,8 @@
   
 </div>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/267757747653705728)](https://discord.com/users/267757747653705728)
+<div align="center">
+  <img src="https://i.goopics.net/723tyx.png" alt="avatar" width="150"
 
 <br>
 <div align="center">
@@ -28,5 +29,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neigexaishi&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 *Made with 💖 by neige !*
-
-
